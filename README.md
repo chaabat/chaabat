@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayoub CHAABAT</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **JAVA**
 
 - 📫 How to reach me **chaabat.02@gmail.com**
 
